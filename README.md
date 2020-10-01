@@ -98,7 +98,7 @@ Check out our [issues](https://github.com/ACM-VIT/Shakespeare-Translate/issues) 
 <br>
 
 **Contributors:** 
-Generate contributors list using this link - https://contributors-img.web.app/preview 
+<!--Generate contributors list using this link - https://contributors-img.web.app/preview--> 
 <a href="https://github.com/ACM-VIT/Shakespeare-Translate/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ACM-VIT/Shakespeare-Translate" />
 </a>
