@@ -11,7 +11,7 @@ Getting Shakespeare into the Modern Era with the magic of NLP.
 
 <p>
   <a href="https://acmvit.in/" target="_blank">
-    <img alt="made-by-acm" src="https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge" />
+    <img align="right" alt="made-by-acm" src="https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge" />
   </a>
     <!-- Uncomment the below line to add the license badge. Make sure the right license badge is reflected. -->
     <!-- <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /> -->
