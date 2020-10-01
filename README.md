@@ -32,7 +32,7 @@ The aim is to build one model that converts a sentence inputted in Shakespearean
 ---
 ## Usage
 Run the following command on your terminal to install are the packages related to this project.
-<pre>pip install -r requirements.txt</pre>
+<pre>pip install requirements.txt</pre>
 
 ---
 ## Dataset
