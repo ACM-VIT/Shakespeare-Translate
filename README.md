@@ -3,10 +3,10 @@
 <img src="https://raw.githubusercontent.com/Malika01/hacktoberfest-readme/master/Final.png">
 </p>
 
-<h2 align="center"> PROJECT TITLE </h2>
+<h2 align="center"> Shakespeare Translate </h2>
 
 <p align="center"> 
-Short description about the project.
+Getting Shakespeare into the Modern Era with the magic of NLP.
 </p>
 
 <p>
@@ -52,7 +52,8 @@ Short description about the project.
 
 ---
 
--_domain specific guidelines here_-
+## What counts as a PR?
+Check out our [issues](https://github.com/ACM-VIT/Shakespeare-Translate/issues) and try to solve them !
   
 ---
 ## Overview
