@@ -90,10 +90,17 @@ Check out our [issues](https://github.com/ACM-VIT/Shakespeare-Translate/issues) 
 
 ## Authors
 
-**Authors:** <!-- [Vinamra Khoria](https://github.com/vinamrak), [Vivek Gereesan](https://github.com/vivek032001),[Aayushi Varma](https://github.com/aayuv17) .. -->  
-**Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview 
+**Authors:** 
+[Vinamra Khoria](https://github.com/vinamrak),
+[Vivek Gereesan](https://github.com/vivek032001),
+[Aayushi Varma](https://github.com/aayuv17)   
+
+<br>
+
+**Contributors:** 
+Generate contributors list using this link - https://contributors-img.web.app/preview 
 <a href="https://github.com/ACM-VIT/Shakespeare-Translate/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ACM-VIT/Shakespeare-Translate" />
 </a>
 
-Made with [contributors-img](https://contributors-img.web.app).
+
