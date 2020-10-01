@@ -31,9 +31,14 @@ The aim is to build one model that converts a sentence inputted in Shakespearean
 
 ---
 ## Usage
-Run the following command on your terminal to install are the packages related to this project.
+Run the following command to install all the required packages for this project
 <pre>pip install requirements.txt</pre>
 
+Lets get started!
+ <pre><code>
+ git remote add
+ git fetch 
+ git merge</code></pre>
 ---
 ## Dataset
 
