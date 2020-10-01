@@ -14,9 +14,31 @@ Getting Shakespeare into the Modern Era with the magic of NLP.
     <img alt="made-by-acm" src="https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge" />
   </a>
     <!-- Uncomment the below line to add the license badge. Make sure the right license badge is reflected. -->
-    <!-- <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /> -->
-    <!-- forks/stars/tech stack in the form of badges from https://shields.io/ -->
+    <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge"  />
+    <img alt="stars" src="https://img.shields.io/github/stars/ACM-VIT/Good-Client-Bad-Client?style=social" align="right"/> 
+    <img alt="forks" src="https://img.shields.io/github/forks/ACM-VIT/Good-Client-Bad-Client?style=social" align="right"/>
 </p>
+
+---
+## Overview
+
+Idea:
+Shakespearean english sentence to Modern english sentence generator and vice versa.
+
+Explanation:
+The aim is to build one model that converts a sentence inputted in Shakespearean English to it's corresponding sentence in modern english and one model that does just the opposite. The basic required packages can be found in requirements.txt and can be installed using the pip command given below in usage. In the dataset given below, you will find all major plays written by Shakespeare in both their original from and their modern english equivalent. Use them to create your own training and testing data in whatever way you feel right. NLTK can be used for cleaning the data such as removing stopwords, word tokenizing ,sentence tokenizing etc. Numpy can be used for handling text data in the form of numpy arrays. Different algorithms as well as deep learning can be used to achieve the task.
+
+
+---
+## Usage
+Run the following command on your terminal to install are the packages related to this project.
+<pre>pip install requirements.txt</pre>
+
+---
+## Dataset
+
+https://github.com/tokestermw/tensorflow-shakespeare/tree/master/data/shakespeare
+
 
 ---
 ## Submitting a Pull Request
@@ -41,7 +63,6 @@ Getting Shakespeare into the Modern Era with the magic of NLP.
 ---
 ## Guidelines for Pull Request
 
-<!-- general guidelines here -->
   * Avoid pull requests that :
       * are automated or scripted
       * that are plagarized from someone else's branch
@@ -52,27 +73,23 @@ Getting Shakespeare into the Modern Era with the magic of NLP.
 
 ---
 
+
 ## What counts as a PR?
 Check out our [issues](https://github.com/ACM-VIT/Shakespeare-Translate/issues) and try to solve them !
   
----
-## Overview
-
-The overview starts here. Random text about the project, motive, how, what, why etc.
 
 ---
-## Usage
-<!-- How To, Features, Installation etc. as subheadings in this section. example-->
 
-Lets get started!
-```console
-git remote add
-git fetch
-git merge
-```
-
----
 ## Authors
 
-**Authors:** <!-- [author1's name](link to their github profile), [author2's name](link to their github profile) .. -->  
-**Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
+**Authors:** 
+[Vinamra Khoria](https://github.com/vinamrak),
+[Vivek Gereesan](https://github.com/vivek032001),
+[Aayushi Varma](https://github.com/aayuv17)<br>
+**Contributors:** 
+<!--Generate contributors list using this link - https://contributors-img.web.app/preview--> 
+<a href="https://github.com/ACM-VIT/Shakespeare-Translate/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ACM-VIT/Shakespeare-Translate" />
+</a>
+
+
