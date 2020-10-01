@@ -1,0 +1,4 @@
+ntlk==3.4.5
+numpy==1.16.4
+textblob==0.16.0
+spacy==2.3.2
