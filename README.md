@@ -14,8 +14,7 @@ Getting Shakespeare into the Modern Era with the magic of NLP.
     <img alt="made-by-acm" src="https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge" />
   </a>
     <!-- Uncomment the below line to add the license badge. Make sure the right license badge is reflected. -->
-    <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /> 
-    <img alt="made-by-acm" src="https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge%22/%3E
+    <img alt="made-by-acm" src="https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge%22/%3E"/>
     <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge"  />
     <img alt="stars" src="https://img.shields.io/github/stars/ACM-VIT/Good-Client-Bad-Client?style=social" align="right"/> 
     <img alt="forks" src="https://img.shields.io/github/forks/ACM-VIT/Good-Client-Bad-Client?style=social" align="right"/>
