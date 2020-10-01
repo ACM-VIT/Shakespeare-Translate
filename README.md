@@ -63,7 +63,6 @@ https://github.com/tokestermw/tensorflow-shakespeare/tree/master/data/shakespear
 ---
 ## Guidelines for Pull Request
 
-<!-- general guidelines here -->
   * Avoid pull requests that :
       * are automated or scripted
       * that are plagarized from someone else's branch
@@ -73,6 +72,7 @@ https://github.com/tokestermw/tensorflow-shakespeare/tree/master/data/shakespear
   For additional guidelines, refer to [participation rules](https://hacktoberfest.digitalocean.com/details#rules)
 
 ---
+
 
 ## What counts as a PR?
 Check out our [issues](https://github.com/ACM-VIT/Shakespeare-Translate/issues) and try to solve them !
