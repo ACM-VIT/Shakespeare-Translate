@@ -19,6 +19,35 @@ Getting Shakespeare into the Modern Era with the magic of NLP.
 </p>
 
 ---
+## Overview
+
+Idea:
+Shakespearean sentence to modern english sentence generator and vice versa.
+
+Explanation:
+The aim is to build one model that converts a sentence inputted in Shakespearean English to it's corresponding sentence in modern english and one model that does just the opposite. 
+
+
+---
+## Usage
+<!-- How To, Features, Installation etc. as subheadings in this section. example-->
+
+
+
+Lets get started!
+```console
+git remote add
+git fetch
+git merge
+```
+
+---
+## Dataset
+
+https://github.com/tokestermw/tensorflow-shakespeare/tree/master/data/shakespeare
+
+
+---
 ## Submitting a Pull Request
 
  * Fork the repository by clicking the fork button on top right corner of the page
@@ -55,24 +84,15 @@ Getting Shakespeare into the Modern Era with the magic of NLP.
 ## What counts as a PR?
 Check out our [issues](https://github.com/ACM-VIT/Shakespeare-Translate/issues) and try to solve them !
   
----
-## Overview
-
-The overview starts here. Random text about the project, motive, how, what, why etc.
 
 ---
-## Usage
-<!-- How To, Features, Installation etc. as subheadings in this section. example-->
 
-Lets get started!
-```console
-git remote add
-git fetch
-git merge
-```
-
----
 ## Authors
 
-**Authors:** <!-- [author1's name](link to their github profile), [author2's name](link to their github profile) .. -->  
-**Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
+**Authors:** <!-- [Vinamra Khoria](https://github.com/vinamrak), [Vivek Gereesan](https://github.com/vivek032001),[Aayushi Varma](https://github.com/aayuv17) .. -->  
+**Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview 
+<a href="https://github.com/ACM-VIT/Shakespeare-Translate/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ACM-VIT/Shakespeare-Translate" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
