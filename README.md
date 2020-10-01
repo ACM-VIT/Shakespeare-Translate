@@ -26,12 +26,12 @@ Idea:
 Shakespearean english sentence to Modern english sentence generator and vice versa.
 
 Explanation:
-The aim is to build one model that converts a sentence inputted in Shakespearean English to it's corresponding sentence in modern english and one model that does just the opposite. The basic required packages can be found in requirements.txt and can be installed using the pip command given below in usage. In the dataset given below, you will find all major plays written by Shakespeare in both their original from and their modern english equivalent. Use them to create your own test and train data in whatever way you feel right. NLTK can be used for cleaning the data such as removing stopwords, word tokenizing ,sentence tokenizing etc. Numpy can be used for handling text data in the form of numpy arrays. Different algorithms as well as deep learning can be used to achieve the task.
+The aim is to build one model that converts a sentence inputted in Shakespearean English to it's corresponding sentence in modern english and one model that does just the opposite. The basic required packages can be found in requirements.txt and can be installed using the pip command given below in usage. In the dataset given below, you will find all major plays written by Shakespeare in both their original from and their modern english equivalent. Use them to create your own training and testing data in whatever way you feel right. NLTK can be used for cleaning the data such as removing stopwords, word tokenizing ,sentence tokenizing etc. Numpy can be used for handling text data in the form of numpy arrays. Different algorithms as well as deep learning can be used to achieve the task.
 
 
 ---
 ## Usage
-Run the following command on your terminal to install are the packages related to this project
+Run the following command on your terminal to install are the packages related to this project.
 <pre>pip install -r requirements.txt</pre>
 
 ---
