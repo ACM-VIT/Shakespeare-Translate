@@ -63,7 +63,7 @@ https://github.com/tokestermw/tensorflow-shakespeare/tree/master/data/shakespear
 <pre><code>git push origin [YOUR-BRANCH-NAME]</code></pre>
 * Create a pull request. Go to the target repository and click on the "Compare & pull request" button. **Make sure your PR description mentions which issues you're solving.**
 <img src="https://drive.google.com/u/1/uc?id=1f9JKAR-kRvCRGxIs_SAvegaYDPx53T9G&export=download"></img>
-* Wait for your request to be accepted. 
+* Wait for your request to be accepted.
 
 ---
 ## Guidelines for Pull Request
