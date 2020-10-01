@@ -31,16 +31,8 @@ The aim is to build one model that converts a sentence inputted in Shakespearean
 
 ---
 ## Usage
-<!-- How To, Features, Installation etc. as subheadings in this section. example-->
-
-
-
-Lets get started!
-```console
-git remote add
-git fetch
-git merge
-```
+Run the following command on your terminal to install are the packages related to this project
+<pre>pip install -r requirements.txt</pre>
 
 ---
 ## Dataset
@@ -93,10 +85,7 @@ Check out our [issues](https://github.com/ACM-VIT/Shakespeare-Translate/issues) 
 **Authors:** 
 [Vinamra Khoria](https://github.com/vinamrak),
 [Vivek Gereesan](https://github.com/vivek032001),
-[Aayushi Varma](https://github.com/aayuv17)   
-
-<br>
-
+[Aayushi Varma](https://github.com/aayuv17)<br>
 **Contributors:** 
 <!--Generate contributors list using this link - https://contributors-img.web.app/preview--> 
 <a href="https://github.com/ACM-VIT/Shakespeare-Translate/graphs/contributors">
