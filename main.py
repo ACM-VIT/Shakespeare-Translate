@@ -1,4 +1,7 @@
-#The link to the dataset has been provided in the dataset section already. You can find all the Shakespearean novels there. Each novel is represented by two text files. The files named "original" contain the novels in original Shakespearean format line by line. The same novel with name "modern" contains the whole novel in modern english format. In this way, the same line in a novel can be extracted in Shakespearean format from the "original" file and in modern format from the "modern" file.
+#The link to the dataset has been provided in the dataset section already. You can find all the Shakespearean novels there. 
+#Each novel is represented by two text files. The files named "original" contain the novels in original Shakespearean format line by line. 
+#The same novel with name "modern" contains the whole novel in modern english format. 
+#In this way, the same line in a novel can be extracted in Shakespearean format from the "original" file and in modern format from the "modern" file.
 
 #Preprocessing starts:-
 
