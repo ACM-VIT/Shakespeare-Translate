@@ -29,7 +29,8 @@ def listOfAlphabets(sentence)
 
 def vectorize(sentence) 
 {
-	#Convert a sentence into a numpy array. Since the length of each sentence varies, find the length of the longest sentence first(this length becomes the length of the training vectors) and zero pad the sentences smaller in length that the longest.
+	#Convert a sentence into a numpy array. 
+	#Since the length of each sentence varies, find the length of the longest sentence first(this length becomes the length of the training vectors) and zero pad the sentences smaller in length that the longest.
 }
 
 #Building the model:-
